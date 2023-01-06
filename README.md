@@ -4,13 +4,13 @@ Archive/Recreation of TheChrisGethardShow.com for restoration and proper archivi
 Currently under construction.
 
 # Preview
-<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/TCGS_Preview0.jpg">
+<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/Other/TCGS_Preview0.jpg">
 <br>
-<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/TCGS_Preview1.jpg">
+<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/Other/TCGS_Preview1.jpg">
 <br>
-<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/TCGS_Preview2.jpg">
+<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/Other/TCGS_Preview2.jpg">
 <br>
-<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/TCGS_Preview3.jpg">
+<img src="https://github.com/JerronM/thechrisgethardshow/blob/main/assets/Other/TCGS_Preview3.jpg">
 <br>
 
 # Links
