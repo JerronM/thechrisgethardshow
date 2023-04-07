@@ -15,5 +15,5 @@ Currently under construction.
 
 # Links
 <h3>TheChrisGethardShow.Com</h3>
-[Domain Being Tranistioned]
+thechrigethardshow.com
 <br>
